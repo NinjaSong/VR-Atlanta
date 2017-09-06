@@ -1,2 +1,3 @@
 # VR-Atlanta
-Made with Unity. \nWork with Sean.
+Made with Unity. 
+Work with Sean.
