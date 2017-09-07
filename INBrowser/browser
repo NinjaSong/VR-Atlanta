@@ -1,0 +1,5 @@
+INBrowser provides a simple interactive web view for Unity:
+ 
+ - Pairs into Unity's Canvas system for easy integration via RawImage
+ - Built on Chromium's foundation to provide a fully interactive user experience 
+ - Supports HTML5 to provide end user with a richer experience on the web view
